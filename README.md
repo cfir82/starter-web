@@ -7,3 +7,5 @@ More text.
 Sample website with plenty of files for demos
 
 ## Deployment
+Deployment text
+More text
