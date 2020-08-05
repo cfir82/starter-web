@@ -1,7 +1,8 @@
 # Starter Web Repo
 Simple website project
 This repository is for showing how Git and GitHub work.
-adding line
+adding line. then
+more changes from myfeature branch too.
 
 ## Purpose
 More text.
