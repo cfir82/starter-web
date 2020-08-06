@@ -14,4 +14,4 @@ More text
 
 ### Copyright
 2020
-text
+text. All rights reserved
